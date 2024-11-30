@@ -158,6 +158,12 @@ margin-top:40%;
   padding-bottom:3vh;
   opacity:0.9;
 }
+
+.card > img{
+  object-fit: cover;
+  height: 200px;
+}
+
 #send{
   background-color:#418cd7b3 !important;
   width:23%;
